@@ -1,0 +1,4866 @@
+{
+  "2023": {
+    "August": {
+      "08-27": {
+        "transactions": [
+          {
+            "description": "Sephora - Makeup Products",
+            "amount": -3500.00,
+            "type": "debit",
+            "category": "Beauty",
+            "time": "11:00",
+            "reference": 6200301015
+          }
+        ],
+        "total": -3500.00
+      },
+      "08-29": {
+        "transactions": [
+          {
+            "description": "Home Depot - Garden Supplies",
+            "amount": -1800.00,
+            "type": "debit",
+            "category": "Garden",
+            "time": "14:20",
+            "reference": 6200301016
+          }
+        ],
+        "total": -1800.00
+      },
+      "08-31": {
+        "transactions": [
+          {
+            "description": "Uber - Ride",
+            "amount": -300.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "08:00",
+            "reference": 6200301017
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -200.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "09:00",
+            "reference": 6200301018
+          },
+          {
+            "description": "Uber - Refund",
+            "amount": 100.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "10:00",
+            "reference": 6200301019
+          }
+        ],
+        "total": -400.00
+      }
+    },
+    "September": {
+      "09-01": {
+        "transactions": [
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -450.00,
+            "type": "debit",
+            "category": "Dining",
+            "time": "08:30",
+            "reference": 6200301101
+          },
+          {
+            "description": "Amazon - Cashback",
+            "amount": 50.00,
+            "type": "credit",
+            "category": "Cashback",
+            "time": "10:00",
+            "reference": 6200301102
+          }
+        ],
+        "total": -400.00
+      },
+      "09-03": {
+        "transactions": [
+          {
+            "description": "Target - School Supplies",
+            "amount": -2500.00,
+            "type": "debit",
+            "category": "Education",
+            "time": "14:15",
+            "reference": 6200301103
+          }
+        ],
+        "total": -2500.00
+      },
+      "09-05": {
+        "transactions": [
+          {
+            "description": "Netflix - Subscription",
+            "amount": -600.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "07:30",
+            "reference": 6200301104
+          }
+        ],
+        "total": -600.00
+      },
+      "09-07": {
+        "transactions": [
+          {
+            "description": "Apple Store - AirPods",
+            "amount": -20000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "13:45",
+            "reference": 6200301105
+          }
+        ],
+        "total": -20000.00
+      },
+      "09-09": {
+        "transactions": [
+          {
+            "description": "Uber - Ride",
+            "amount": -150.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "09:30",
+            "reference": 6200301106
+          },
+          {
+            "description": "Uber - Refund",
+            "amount": 20.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "10:00",
+            "reference": 6200301107
+          }
+        ],
+        "total": -130.00
+      },
+      "09-12": {
+        "transactions": [
+          {
+            "description": "Whole Foods - Groceries",
+            "amount": -8000.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "17:00",
+            "reference": 6200301108
+          }
+        ],
+        "total": -8000.00
+      },
+      "09-14": {
+        "transactions": [
+          {
+            "description": "Sephora - Cosmetics",
+            "amount": -3200.00,
+            "type": "debit",
+            "category": "Beauty",
+            "time": "15:00",
+            "reference": 6200301109
+          }
+        ],
+        "total": -3200.00
+      },
+      "09-16": {
+        "transactions": [
+          {
+            "description": "H&M - Clothing Purchase",
+            "amount": -4500.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "11:30",
+            "reference": 6200301110
+          }
+        ],
+        "total": -4500.00
+      },
+      "09-19": {
+        "transactions": [
+          {
+            "description": "Spotify - Subscription",
+            "amount": -200.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "07:45",
+            "reference": 6200301111
+          }
+        ],
+        "total": -200.00
+      },
+      "09-21": {
+        "transactions": [
+          {
+            "description": "Costco - Bulk Items",
+            "amount": -11000.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "16:30",
+            "reference": 6200301112
+          }
+        ],
+        "total": -11000.00
+      },
+      "09-24": {
+        "transactions": [
+          {
+            "description": "Expedia - Hotel Booking",
+            "amount": -28000.00,
+            "type": "debit",
+            "category": "Travel",
+            "time": "14:00",
+            "reference": 6200301113
+          }
+        ],
+        "total": -28000.00
+      },
+      "09-27": {
+        "transactions": [
+          {
+            "description": "Amazon - Refund",
+            "amount": 1500.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "11:15",
+            "reference": 6200301114
+          },
+          {
+            "description": "Amazon - Books",
+            "amount": -3500.00,
+            "type": "debit",
+            "category": "Education",
+            "time": "12:00",
+            "reference": 6200301115
+          }
+        ],
+        "total": -2000.00
+      },
+      "09-29": {
+        "transactions": [
+          {
+            "description": "Uber - Ride",
+            "amount": -300.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "18:00",
+            "reference": 6200301116
+          }
+        ],
+        "total": -300.00
+      }
+    },
+    "October": {
+      "10-01": {
+        "transactions": [
+          {
+            "description": "CVS - Pharmacy",
+            "amount": -500.00,
+            "type": "debit",
+            "category": "Health",
+            "time": "10:00",
+            "reference": 6200301201
+          }
+        ],
+        "total": -500.00
+      },
+      "10-03": {
+        "transactions": [
+          {
+            "description": "Amazon - Electronics",
+            "amount": -15000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "15:30",
+            "reference": 6200301202
+          },
+          {
+            "description": "Amazon - Cashback",
+            "amount": 300.00,
+            "type": "credit",
+            "category": "Cashback",
+            "time": "16:00",
+            "reference": 6200301203
+          }
+        ],
+        "total": -14700.00
+      },
+      "10-06": {
+        "transactions": [
+          {
+            "description": "Uber Eats - Food Delivery",
+            "amount": -2500.00,
+            "type": "debit",
+            "category": "Dining",
+            "time": "13:00",
+            "reference": 6200301204
+          }
+        ],
+        "total": -2500.00
+      },
+      "10-08": {
+        "transactions": [
+          {
+            "description": "Walmart - Electronics",
+            "amount": -7000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "12:30",
+            "reference": 6200301205
+          }
+        ],
+        "total": -7000.00
+      },
+      "10-11": {
+        "transactions": [
+          {
+            "description": "Spotify - Subscription",
+            "amount": -200.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "06:00",
+            "reference": 6200301206
+          }
+        ],
+        "total": -200.00
+      },
+      "10-14": {
+        "transactions": [
+          {
+            "description": "Best Buy - Television",
+            "amount": -55000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "11:00",
+            "reference": 6200301207
+          }
+        ],
+        "total": -55000.00
+      },
+      "10-16": {
+        "transactions": [
+          {
+            "description": "Uber - Ride",
+            "amount": -120.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "17:00",
+            "reference": 6200301208
+          },
+          {
+            "description": "Uber - Refund",
+            "amount": 40.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "17:30",
+            "reference": 6200301209
+          }
+        ],
+        "total": -80.00
+      },
+      "10-18": {
+        "transactions": [
+          {
+            "description": "Apple Store - iPhone",
+            "amount": -95000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "10:45",
+            "reference": 6200301210
+          }
+        ],
+        "total": -95000.00
+      },
+      "10-21": {
+        "transactions": [
+          {
+            "description": "Amazon - Home Essentials",
+            "amount": -4000.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "14:15",
+            "reference": 6200301211
+          }
+        ],
+        "total": -4000.00
+      },
+      "10-23": {
+        "transactions": [
+          {
+            "description": "Whole Foods - Groceries",
+            "amount": -6000.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "16:45",
+            "reference": 6200301212
+          }
+        ],
+        "total": -6000.00
+      },
+      "10-25": {
+        "transactions": [
+          {
+            "description": "Sephora - Beauty Products",
+            "amount": -800.00,
+            "type": "debit",
+            "category": "Beauty",
+            "time": "11:30",
+            "reference": 6200301213
+          }
+        ],
+        "total": -800.00
+      },
+      "10-27": {
+        "transactions": [
+          {
+            "description": "Target - Halloween Decorations",
+            "amount": -2500.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "18:00",
+            "reference": 6200301214
+          }
+        ],
+        "total": -2500.00
+      },
+      "10-30": {
+        "transactions": [
+          {
+            "description": "Netflix - Subscription",
+            "amount": -600.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "08:30",
+            "reference": 6200301215
+          }
+        ],
+        "total": -600.00
+      }
+    },
+    "November": {
+      "11-02": {
+        "transactions": [
+          {
+            "description": "Amazon - Electronics",
+            "amount": -7500.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "13:15",
+            "reference": 6200301301
+          },
+          {
+            "description": "Amazon - Cashback",
+            "amount": 300.00,
+            "type": "credit",
+            "category": "Cashback",
+            "time": "14:00",
+            "reference": 6200301302
+          }
+        ],
+        "total": -7200.00
+      },
+      "11-04": {
+        "transactions": [
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -550.00,
+            "type": "debit",
+            "category": "Dining",
+            "time": "08:45",
+            "reference": 6200301303
+          }
+        ],
+        "total": -550.00
+      },
+      "11-06": {
+        "transactions": [
+          {
+            "description": "Netflix - Subscription",
+            "amount": -600.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "09:30",
+            "reference": 6200301304
+          }
+        ],
+        "total": -600.00
+      },
+      "11-09": {
+        "transactions": [
+          {
+            "description": "Whole Foods - Groceries",
+            "amount": -11000.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "17:15",
+            "reference": 6200301305
+          }
+        ],
+        "total": -11000.00
+      },
+      "11-12": {
+        "transactions": [
+          {
+            "description": "Best Buy - Gaming Console",
+            "amount": -25000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "14:30",
+            "reference": 6200301306
+          }
+        ],
+        "total": -25000.00
+      },
+      "11-15": {
+        "transactions": [
+          {
+            "description": "Spotify - Subscription",
+            "amount": -200.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "08:00",
+            "reference": 6200301307
+          }
+        ],
+        "total": -200.00
+      },
+      "11-17": {
+        "transactions": [
+          {
+            "description": "Apple Store - MacBook",
+            "amount": -90000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "10:30",
+            "reference": 6200301308
+          }
+        ],
+        "total": -90000.00
+      },
+      "11-20": {
+        "transactions": [
+          {
+            "description": "Costco - Bulk Groceries",
+            "amount": -8500.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "16:45",
+            "reference": 6200301309
+          }
+        ],
+        "total": -8500.00
+      },
+      "11-22": {
+        "transactions": [
+          {
+            "description": "Uber - Ride",
+            "amount": -250.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "19:30",
+            "reference": 6200301310
+          }
+        ],
+        "total": -250.00
+      },
+      "11-24": {
+        "transactions": [
+          {
+            "description": "Target - Home Appliances",
+            "amount": -5500.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "15:20",
+            "reference": 6200301311
+          }
+        ],
+        "total": -5500.00
+      },
+      "11-27": {
+        "transactions": [
+          {
+            "description": "Amazon - Gift Cards",
+            "amount": -2000.00,
+            "type": "debit",
+            "category": "Gifts",
+            "time": "12:00",
+            "reference": 6200301312
+          }
+        ],
+        "total": -2000.00
+      },
+      "11-30": {
+        "transactions": [
+          {
+            "description": "Walmart - Black Friday Deals",
+            "amount": -15000.00,
+            "type": "debit",
+            "category": "Shopping",
+            "time": "14:00",
+            "reference": 6200301313
+          },
+          {
+            "description": "Walmart - Refund",
+            "amount": 1000.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "15:00",
+            "reference": 6200301314
+          }
+        ],
+        "total": -14000.00
+      }
+    },
+    "December": {
+      "12-02": {
+        "transactions": [
+          {
+            "description": "Apple Store - AirPods",
+            "amount": -15000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "11:45",
+            "reference": 6200301401
+          }
+        ],
+        "total": -15000.00
+      },
+      "12-04": {
+        "transactions": [
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -450.00,
+            "type": "debit",
+            "category": "Dining",
+            "time": "09:15",
+            "reference": 6200301402
+          }
+        ],
+        "total": -450.00
+      },
+      "12-06": {
+        "transactions": [
+          {
+            "description": "Netflix - Subscription",
+            "amount": -600.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "07:00",
+            "reference": 6200301403
+          }
+        ],
+        "total": -600.00
+      },
+      "12-08": {
+        "transactions": [
+          {
+            "description": "Whole Foods - Groceries",
+            "amount": -12000.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "18:00",
+            "reference": 6200301404
+          }
+        ],
+        "total": -12000.00
+      },
+      "12-10": {
+        "transactions": [
+          {
+            "description": "Best Buy - TV",
+            "amount": -55000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "12:30",
+            "reference": 6200301405
+          }
+        ],
+        "total": -55000.00
+      },
+      "12-13": {
+        "transactions": [
+          {
+            "description": "Spotify - Subscription",
+            "amount": -200.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "08:30",
+            "reference": 6200301406
+          }
+        ],
+        "total": -200.00
+      },
+      "12-15": {
+        "transactions": [
+          {
+            "description": "Uber - Ride",
+            "amount": -350.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "20:00",
+            "reference": 6200301407
+          }
+        ],
+        "total": -350.00
+      },
+      "12-17": {
+        "transactions": [
+          {
+            "description": "Target - Christmas Gifts",
+            "amount": -5000.00,
+            "type": "debit",
+            "category": "Gifts",
+            "time": "14:00",
+            "reference": 6200301408
+          }
+        ],
+        "total": -5000.00
+      },
+      "12-20": {
+        "transactions": [
+          {
+            "description": "Amazon - Refund",
+            "amount": 1500.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "10:00",
+            "reference": 6200301409
+          },
+          {
+            "description": "Amazon - Holiday Decor",
+            "amount": -3000.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "11:00",
+            "reference": 6200301410
+          }
+        ],
+        "total": -1500.00
+      },
+      "12-23": {
+        "transactions": [
+          {
+            "description": "Macy's - Clothing",
+            "amount": -8000.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "13:45",
+            "reference": 6200301411
+          }
+        ],
+        "total": -8000.00
+      },
+      "12-25": {
+        "transactions": [
+          {
+            "description": "Disney+ - Subscription",
+            "amount": -800.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "08:00",
+            "reference": 6200301412
+          }
+        ],
+        "total": -800.00
+      },
+      "12-27": {
+        "transactions": [
+          {
+            "description": "Costco - Bulk Groceries",
+            "amount": -7000.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "15:30",
+            "reference": 6200301413
+          }
+        ],
+        "total": -7000.00
+      },
+      "12-30": {
+        "transactions": [
+          {
+            "description": "Apple Store - iPhone Accessories",
+            "amount": -5000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "16:15",
+            "reference": 6200301414
+          }
+        ],
+        "total": -5000.00
+      }
+    }
+  },
+  "2024": {
+    "January": {
+      "01-02": {
+        "transactions": [
+          {
+            "description": "Walmart - Groceries",
+            "amount": -5000.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "11:30",
+            "reference": 7200301501
+          },
+          {
+            "description": "Target - Electronics",
+            "amount": -1500.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "12:45",
+            "reference": 7200301502
+          },
+          {
+            "description": "McDonald's - Food",
+            "amount": -300.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "13:30",
+            "reference": 7200301503
+          },
+          {
+            "description": "Netflix - Subscription",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "14:00",
+            "reference": 7200301504
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -700.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "14:45",
+            "reference": 7200301505
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -200.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "15:00",
+            "reference": 7200301506
+          },
+          {
+            "description": "Whole Foods - Groceries",
+            "amount": -4500.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "17:15",
+            "reference": 7200301508
+          },
+          {
+            "description": "Amazon - Refund",
+            "amount": 1500.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "18:00",
+            "reference": 7200301509
+          },
+          {
+            "description": "CVS - Health Products",
+            "amount": -700.00,
+            "type": "debit",
+            "category": "Health",
+            "time": "19:30",
+            "reference": 7200301510
+          }
+        ],
+        "total": -9900.00
+      },
+      "01-04": {
+        "transactions": [
+          {
+            "description": "Netflix - Subscription",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "07:15",
+            "reference": 7200301511
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -400.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "09:45",
+            "reference": 7200301512
+          },
+          {
+            "description": "McDonald's - Food",
+            "amount": -500.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "12:30",
+            "reference": 7200301514
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -850.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "14:15",
+            "reference": 7200301515
+          }
+        ],
+        "total": -2950.00
+      },
+      "01-08": {
+        "transactions": [
+          {
+            "description": "Amazon - Electronics",
+            "amount": -8000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "08:00",
+            "reference": 7200301521
+          },
+          {
+            "description": "Netflix - Subscription",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "09:15",
+            "reference": 7200301522
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -500.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "10:00",
+            "reference": 7200301523
+          },
+          {
+            "description": "Apple Store - Accessories",
+            "amount": -12000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "11:30",
+            "reference": 7200301524
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -750.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "12:45",
+            "reference": 7200301525
+          },
+          {
+            "description": "Target - Groceries",
+            "amount": -4500.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "13:30",
+            "reference": 7200301526
+          },
+          {
+            "description": "McDonald's - Food",
+            "amount": -600.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "14:45",
+            "reference": 7200301527
+          },
+          {
+            "description": "Spotify - Subscription",
+            "amount": -700.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "16:00",
+            "reference": 7200301528
+          },
+          {
+            "description": "Walmart - Groceries",
+            "amount": -3000.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "17:15",
+            "reference": 7200301529
+          },
+          {
+            "description": "Amazon - Refund",
+            "amount": 500.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "18:30",
+            "reference": 7200301530
+          }
+        ],
+        "total": -31550.00
+      },
+      "01-11": {
+        "transactions": [
+          {
+            "description": "Uber - Ride",
+            "amount": -1500.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "08:50",
+            "reference": 7200301531
+          },
+          {
+            "description": "Whole Foods - Organic Groceries",
+            "amount": -7000.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "10:15",
+            "reference": 7200301532
+          },
+          {
+            "description": "Netflix - Subscription",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "11:45",
+            "reference": 7200301533
+          },
+          {
+            "description": "Apple Store - Accessories",
+            "amount": -3500.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "13:00",
+            "reference": 7200301534
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -950.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "14:00",
+            "reference": 7200301535
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -450.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "15:30",
+            "reference": 7200301536
+          },
+          {
+            "description": "McDonald's - Food",
+            "amount": -600.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "16:45",
+            "reference": 7200301537
+          },
+          {
+            "description": "Spotify - Subscription",
+            "amount": -700.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "18:00",
+            "reference": 7200301538
+          },
+          {
+            "description": "Amazon - Groceries",
+            "amount": -4000.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "19:15",
+            "reference": 7200301539
+          },
+          {
+            "description": "Target - Cashback",
+            "amount": 200.00,
+            "type": "credit",
+            "category": "Cashback",
+            "time": "20:30",
+            "reference": 7200301540
+          }
+        ],
+        "total": -26100.00
+      },
+      "01-15": {
+        "transactions": [
+          {
+            "description": "Apple Store - Accessories",
+            "amount": -350.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "10:00",
+            "reference": 7200301541
+          },
+          {
+            "description": "Apple Store - Refund",
+            "amount": 100.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "11:00",
+            "reference": 7200301542
+          },
+          {
+            "description": "Netflix - Subscription",
+            "amount": -120.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "12:15",
+            "reference": 7200301543
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -30.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "13:00",
+            "reference": 7200301544
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -95.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "14:30",
+            "reference": 7200301545
+          },
+          {
+            "description": "Amazon - Electronics",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "16:00",
+            "reference": 7200301546
+          },
+          {
+            "description": "McDonald's - Food",
+            "amount": -60.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "17:30",
+            "reference": 7200301547
+          },
+          {
+            "description": "Spotify - Subscription",
+            "amount": -70.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "18:45",
+            "reference": 7200301548
+          },
+          {
+            "description": "Walmart - Groceries",
+            "amount": -400.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "20:00",
+            "reference": 7200301549
+          },
+          {
+            "description": "Target - Cashback",
+            "amount": 30.00,
+            "type": "credit",
+            "category": "Cashback",
+            "time": "21:15",
+            "reference": 7200301550
+          }
+        ],
+        "total": -2485.00
+      },
+      "01-20": {
+        "transactions": [
+          {
+            "description": "Domino's Pizza - Food",
+            "amount": -2000.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "09:15",
+            "reference": 7200301551
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -850.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "11:45",
+            "reference": 7200301553
+          },
+          {
+            "description": "Apple Store - Accessories",
+            "amount": -5000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "13:00",
+            "reference": 7200301554
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -300.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "14:30",
+            "reference": 7200301555
+          },
+          {
+            "description": "Netflix - Subscription",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "16:00",
+            "reference": 7200301556
+          },
+          {
+            "description": "McDonald's - Food",
+            "amount": -500.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "17:15",
+            "reference": 7200301557
+          },
+          {
+            "description": "Spotify - Subscription",
+            "amount": -700.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "18:30",
+            "reference": 7200301558
+          },
+          {
+            "description": "Whole Foods - Groceries",
+            "amount": -4500.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "19:45",
+            "reference": 7200301559
+          },
+          {
+            "description": "Amazon - Refund",
+            "amount": 800.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "21:00",
+            "reference": 7200301560
+          }
+        ],
+        "total": -19450.00
+      },
+      "01-24": {
+        "transactions": [
+          {
+            "description": "Spotify - Subscription",
+            "amount": -700.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "08:00",
+            "reference": 7200301561
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -850.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "12:00",
+            "reference": 7200301564
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -300.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "13:30",
+            "reference": 7200301565
+          },
+          {
+            "description": "Netflix - Subscription",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "15:00",
+            "reference": 7200301566
+          },
+          {
+            "description": "McDonald's - Food",
+            "amount": -500.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "16:15",
+            "reference": 7200301567
+          },
+          {
+            "description": "Whole Foods - Groceries",
+            "amount": -3500.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "17:45",
+            "reference": 7200301568
+          },
+          {
+            "description": "Apple Store - Accessories",
+            "amount": -5000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "19:00",
+            "reference": 7200301569
+          },
+          {
+            "description": "Amazon - Refund",
+            "amount": 800.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "20:30",
+            "reference": 7200301570
+          }
+        ],
+        "total": -11950.00
+      },
+      "01-29": {
+        "transactions": [
+          {
+            "description": "Target - Home Supplies",
+            "amount": -300.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "09:00",
+            "reference": 7200301571
+          },
+          {
+            "description": "Target - Cashback",
+            "amount": 20.00,
+            "type": "credit",
+            "category": "Cashback",
+            "time": "09:30",
+            "reference": 7200301572
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -80.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "10:15",
+            "reference": 7200301573
+          },
+          {
+            "description": "Amazon - Electronics",
+            "amount": -850.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "11:45",
+            "reference": 7200301574
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -35.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "13:00",
+            "reference": 7200301575
+          },
+          {
+            "description": "Spotify - Subscription",
+            "amount": -70.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "14:30",
+            "reference": 7200301576
+          },
+          {
+            "description": "Netflix - Subscription",
+            "amount": -120.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "16:00",
+            "reference": 7200301577
+          },
+          {
+            "description": "Whole Foods - Groceries",
+            "amount": -400.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "17:30",
+            "reference": 7200301578
+          },
+          {
+            "description": "Domino's Pizza - Food",
+            "amount": -250.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "19:15",
+            "reference": 7200301579
+          },
+          {
+            "description": "Amazon - Refund",
+            "amount": 50.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "20:45",
+            "reference": 7200301580
+          }
+        ],
+        "total": -2755.00
+      }
+    },
+    "February": {
+      "02-03": {
+        "transactions": [
+          {
+            "description": "Airbnb - Lodging",
+            "amount": -15000.00,
+            "type": "debit",
+            "category": "Travel",
+            "time": "15:45",
+            "reference": 7200301514
+          },
+          {
+            "description": "Lyft - Ride",
+            "amount": -850.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "08:35",
+            "reference": 7200301581
+          },
+          {
+            "description": "Walmart - Groceries",
+            "amount": -6500.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "10:45",
+            "reference": 7200301582
+          },
+          {
+            "description": "McDonald's - Food",
+            "amount": -800.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "11:20",
+            "reference": 7200301583
+          },
+          {
+            "description": "Spotify - Subscription",
+            "amount": -700.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "12:00",
+            "reference": 7200301584
+          },
+          {
+            "description": "Target - Home Supplies",
+            "amount": -3200.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "13:30",
+            "reference": 7200301585
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -500.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "16:15",
+            "reference": 7200301586
+          },
+          {
+            "description": "Apple Store - Accessories",
+            "amount": -1500.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "17:00",
+            "reference": 7200301587
+          },
+          {
+            "description": "Amazon - Electronics",
+            "amount": -9000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "18:45",
+            "reference": 7200301588
+          },
+          {
+            "description": "Whole Foods - Organic Groceries",
+            "amount": -4500.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "20:15",
+            "reference": 7200301589
+          }
+        ],
+        "total": -42150.00
+      },
+      "02-05": {
+        "transactions": [
+          {
+            "description": "Netflix - Subscription",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "07:10",
+            "reference": 7200301515
+          },
+          {
+            "description": "Lyft - Ride",
+            "amount": -900.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "09:00",
+            "reference": 7200301590
+          },
+          {
+            "description": "Walmart - Groceries",
+            "amount": -3000.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "11:20",
+            "reference": 7200301591
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -300.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "12:30",
+            "reference": 7200301592
+          },
+          {
+            "description": "Spotify - Subscription",
+            "amount": -700.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "14:00",
+            "reference": 7200301593
+          },
+          {
+            "description": "Amazon - Books",
+            "amount": -1500.00,
+            "type": "debit",
+            "category": "Education",
+            "time": "15:45",
+            "reference": 7200301594
+          },
+          {
+            "description": "Uber Eats - Food",
+            "amount": -2000.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "17:15",
+            "reference": 7200301595
+          },
+          {
+            "description": "Apple Store - Gadgets",
+            "amount": -5000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "18:30",
+            "reference": 7200301596
+          },
+          {
+            "description": "Nike - Sports Gear",
+            "amount": -2500.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "19:45",
+            "reference": 7200301597
+          },
+          {
+            "description": "Amazon - Refund",
+            "amount": 1000.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "21:00",
+            "reference": 7200301598
+          }
+        ],
+        "total": -13300.00
+      },
+      "02-08": {
+        "transactions": [
+          {
+            "description": "Best Buy - Electronics",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "11:00",
+            "reference": 7200301516
+          },
+          {
+            "description": "Lyft - Ride",
+            "amount": -70.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "09:30",
+            "reference": 7200301599
+          },
+          {
+            "description": "McDonald's - Food",
+            "amount": -80.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "10:15",
+            "reference": 7200301600
+          },
+          {
+            "description": "Walmart - Groceries",
+            "amount": -520.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "13:30",
+            "reference": 7200301601
+          },
+          {
+            "description": "Spotify - Subscription",
+            "amount": -70.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "14:45",
+            "reference": 7200301602
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -30.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "16:00",
+            "reference": 7200301603
+          },
+          {
+            "description": "Target - Home Supplies",
+            "amount": -150.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "17:20",
+            "reference": 7200301604
+          },
+          {
+            "description": "Amazon - Fashion",
+            "amount": -450.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "18:45",
+            "reference": 7200301605
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -100.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "20:00",
+            "reference": 7200301606
+          },
+          {
+            "description": "Amazon - Refund",
+            "amount": 80.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "21:30",
+            "reference": 7200301607
+          }
+        ],
+        "total": -2100.00
+      },
+      "02-12": {
+        "transactions": [
+          {
+            "description": "Lyft - Ride",
+            "amount": -800.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "08:35",
+            "reference": 7200301517
+          },
+          {
+            "description": "Walmart - Groceries",
+            "amount": -6000.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "14:10",
+            "reference": 7200301518
+          },
+          {
+            "description": "Apple Store - Gadgets",
+            "amount": -3500.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "10:00",
+            "reference": 7200301608
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -700.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "09:00",
+            "reference": 7200301609
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -300.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "11:30",
+            "reference": 7200301610
+          },
+          {
+            "description": "Amazon - Fashion",
+            "amount": -4500.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "13:00",
+            "reference": 7200301611
+          },
+          {
+            "description": "Target - Home Supplies",
+            "amount": -3200.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "15:45",
+            "reference": 7200301612
+          },
+          {
+            "description": "Netflix - Subscription",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "18:00",
+            "reference": 7200301613
+          },
+          {
+            "description": "Whole Foods - Groceries",
+            "amount": -5000.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "19:30",
+            "reference": 7200301614
+          },
+          {
+            "description": "Amazon - Refund",
+            "amount": 900.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "20:30",
+            "reference": 7200301615
+          }
+        ],
+        "total": -20900.00
+      },
+      "02-16": {
+        "transactions": [
+          {
+            "description": "Burger King - Food",
+            "amount": -500.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "19:30",
+            "reference": 7200301519
+          },
+          {
+            "description": "Burger King - Refund",
+            "amount": 100.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "20:00",
+            "reference": 7200301520
+          },
+          {
+            "description": "Apple Store - Accessories",
+            "amount": -3000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "10:30",
+            "reference": 7200301616
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -600.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "09:15",
+            "reference": 7200301617
+          },
+          {
+            "description": "Spotify - Subscription",
+            "amount": -700.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "11:15",
+            "reference": 7200301618
+          },
+          {
+            "description": "Amazon - Books",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Education",
+            "time": "12:45",
+            "reference": 7200301619
+          },
+          {
+            "description": "Walmart - Groceries",
+            "amount": -4500.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "14:20",
+            "reference": 7200301620
+          },
+          {
+            "description": "Target - Home Supplies",
+            "amount": -2800.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "15:45",
+            "reference": 7200301621
+          },
+          {
+            "description": "Netflix - Subscription",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "17:00",
+            "reference": 7200301622
+          },
+          {
+            "description": "Whole Foods - Groceries",
+            "amount": -5000.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "18:30",
+            "reference": 7200301623
+          }
+        ],
+        "total": -18900.00
+      },
+      "02-20": {
+        "transactions": [
+          {
+            "description": "Uber - Ride",
+            "amount": -2000.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "22:15",
+            "reference": 7200301521
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -350.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "09:15",
+            "reference": 7200301624
+          },
+          {
+            "description": "Walmart - Groceries",
+            "amount": -2500.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "10:30",
+            "reference": 7200301625
+          },
+          {
+            "description": "Apple Store - Accessories",
+            "amount": -4000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "11:45",
+            "reference": 7200301626
+          },
+          {
+            "description": "Spotify - Subscription",
+            "amount": -700.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "13:00",
+            "reference": 7200301627
+          },
+          {
+            "description": "Netflix - Subscription",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "14:30",
+            "reference": 7200301628
+          },
+          {
+            "description": "Amazon - Fashion",
+            "amount": -4500.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "16:00",
+            "reference": 7200301629
+          },
+          {
+            "description": "Target - Home Supplies",
+            "amount": -3200.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "17:30",
+            "reference": 7200301630
+          },
+          {
+            "description": "Uber Eats - Food",
+            "amount": -1800.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "19:15",
+            "reference": 7200301631
+          },
+          {
+            "description": "Amazon - Refund",
+            "amount": 1000.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "21:00",
+            "reference": 7200301632
+          }
+        ],
+        "total": -19050.00
+      },
+      "02-22": {
+        "transactions": [
+          {
+            "description": "Costco - Groceries",
+            "amount": -85.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "16:45",
+            "reference": 7200301522
+          },
+          {
+            "description": "Lyft - Ride",
+            "amount": -9.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "08:00",
+            "reference": 7200301633
+          },
+          {
+            "description": "Walmart - Groceries",
+            "amount": -60.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "10:30",
+            "reference": 7200301634
+          },
+          {
+            "description": "Spotify - Subscription",
+            "amount": -7.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "11:45",
+            "reference": 7200301635
+          },
+          {
+            "description": "Amazon - Electronics",
+            "amount": -120.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "13:00",
+            "reference": 7200301636
+          },
+          {
+            "description": "Uber Eats - Food",
+            "amount": -30.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "14:30",
+            "reference": 7200301637
+          },
+          {
+            "description": "Apple Store - Gadgets",
+            "amount": -45.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "16:00",
+            "reference": 7200301638
+          },
+          {
+            "description": "Netflix - Subscription",
+            "amount": -12.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "17:15",
+            "reference": 7200301639
+          },
+          {
+            "description": "Amazon - Books",
+            "amount": -8.00,
+            "type": "debit",
+            "category": "Education",
+            "time": "18:45",
+            "reference": 7200301640
+          },
+          {
+            "description": "Nike - Sports Gear",
+            "amount": -40.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "20:00",
+            "reference": 7200301641
+          }
+        ],
+        "total": -408.00
+      },
+      "02-27": {
+        "transactions": [
+          {
+            "description": "Spotify - Subscription",
+            "amount": -700.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "05:50",
+            "reference": 7200301523
+          },
+          {
+            "description": "Nike - Sports Gear",
+            "amount": -4000.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "14:20",
+            "reference": 7200301524
+          },
+          {
+            "description": "Amazon - Electronics",
+            "amount": -3000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "07:45",
+            "reference": 7200301642
+          },
+          {
+            "description": "Walmart - Groceries",
+            "amount": -6000.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "09:00",
+            "reference": 7200301643
+          },
+          {
+            "description": "Lyft - Ride",
+            "amount": -800.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "10:15",
+            "reference": 7200301644
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -350.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "11:30",
+            "reference": 7200301645
+          },
+          {
+            "description": "Apple Store - Gadgets",
+            "amount": -4500.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "12:45",
+            "reference": 7200301646
+          },
+          {
+            "description": "Netflix - Subscription",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "13:30",
+            "reference": 7200301647
+          },
+          {
+            "description": "Amazon - Fashion",
+            "amount": -4500.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "15:00",
+            "reference": 7200301648
+          },
+          {
+            "description": "Uber Eats - Food",
+            "amount": -1800.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "16:15",
+            "reference": 7200301649
+          }
+        ],
+        "total": -29150.00
+      }
+    },
+    "March": {
+      "03-01": {
+        "transactions": [
+          {
+            "description": "Amazon - Books",
+            "amount": -200.00,
+            "type": "debit",
+            "category": "Education",
+            "time": "10:30",
+            "reference": 7200301601
+          },
+          {
+            "description": "Walmart - Groceries",
+            "amount": -320.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "12:15",
+            "reference": 7200301602
+          },
+          {
+            "description": "Netflix - Subscription",
+            "amount": -120.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "14:00",
+            "reference": 7200301603
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -50.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "15:30",
+            "reference": 7200301604
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -150.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "17:45",
+            "reference": 7200301605
+          },
+          {
+            "description": "Costco - Groceries",
+            "amount": -480.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "18:30",
+            "reference": 7200301606
+          },
+          {
+            "description": "Target - Home Supplies",
+            "amount": -350.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "19:00",
+            "reference": 7200301607
+          },
+          {
+            "description": "Spotify - Subscription",
+            "amount": -70.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "20:15",
+            "reference": 7200301608
+          },
+          {
+            "description": "Apple Store - Accessories",
+            "amount": -900.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "21:00",
+            "reference": 7200301609
+          },
+          {
+            "description": "Apple Store - Refund",
+            "amount": 100.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "21:30",
+            "reference": 7200301610
+          },
+          {
+            "description": "McDonald's - Lunch",
+            "amount": -60.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "13:00",
+            "reference": 7200301611
+          }
+        ],
+        "total": -2200.00
+      },
+      "03-05": {
+        "transactions": [
+          {
+            "description": "Airbnb - Lodging",
+            "amount": -18000.00,
+            "type": "debit",
+            "category": "Travel",
+            "time": "16:30",
+            "reference": 7200301612
+          },
+          {
+            "description": "Burger King - Food",
+            "amount": -600.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "20:00",
+            "reference": 7200301613
+          },
+          {
+            "description": "Lyft - Ride",
+            "amount": -900.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "08:15",
+            "reference": 7200301614
+          },
+          {
+            "description": "Amazon - Fashion",
+            "amount": -3500.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "11:45",
+            "reference": 7200301616
+          },
+          {
+            "description": "Whole Foods - Groceries",
+            "amount": -2800.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "13:30",
+            "reference": 7200301617
+          },
+          {
+            "description": "Apple Music - Subscription",
+            "amount": -700.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "14:45",
+            "reference": 7200301618
+          },
+          {
+            "description": "Amazon - Refund",
+            "amount": 1000.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "15:30",
+            "reference": 7200301619
+          },
+          {
+            "description": "Uber Eats - Dinner",
+            "amount": -1500.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "18:00",
+            "reference": 7200301620
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -500.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "19:00",
+            "reference": 7200301621
+          }
+        ],
+        "total": -17000.00
+      },
+      "03-10": {
+        "transactions": [
+          {
+            "description": "Amazon - Electronics",
+            "amount": -1500.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "11:45",
+            "reference": 7200301622
+          },
+          {
+            "description": "Lyft - Ride",
+            "amount": -90.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "13:15",
+            "reference": 7200301623
+          },
+          {
+            "description": "Costco - Membership Renewal",
+            "amount": -600.00,
+            "type": "debit",
+            "category": "Membership",
+            "time": "09:30",
+            "reference": 7200301624
+          },
+          {
+            "description": "Nike - Sportswear",
+            "amount": -450.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "10:15",
+            "reference": 7200301625
+          },
+          {
+            "description": "Amazon - Books",
+            "amount": -120.00,
+            "type": "debit",
+            "category": "Education",
+            "time": "12:30",
+            "reference": 7200301626
+          },
+          {
+            "description": "Walmart - Groceries",
+            "amount": -380.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "14:45",
+            "reference": 7200301627
+          },
+          {
+            "description": "Apple Store - Accessories",
+            "amount": -750.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "16:00",
+            "reference": 7200301628
+          },
+          {
+            "description": "Netflix - Subscription",
+            "amount": -120.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "17:15",
+            "reference": 7200301629
+          },
+          {
+            "description": "Amazon - Refund",
+            "amount": 50.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "18:30",
+            "reference": 7200301630
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -45.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "19:45",
+            "reference": 7200301631
+          }
+        ],
+        "total": -3455.00
+      },
+      "03-15": {
+        "transactions": [
+          {
+            "description": "Target - Clothing",
+            "amount": -400.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "14:00",
+            "reference": 7200301632
+          },
+          {
+            "description": "Starbucks - Refund",
+            "amount": 20.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "15:00",
+            "reference": 7200301633
+          },
+          {
+            "description": "Spotify - Subscription",
+            "amount": -70.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "08:30",
+            "reference": 7200301634
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -120.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "09:45",
+            "reference": 7200301635
+          },
+          {
+            "description": "Apple Store - Headphones",
+            "amount": -1500.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "11:00",
+            "reference": 7200301636
+          },
+          {
+            "description": "Netflix - Subscription",
+            "amount": -120.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "12:15",
+            "reference": 7200301637
+          },
+          {
+            "description": "Walmart - Groceries",
+            "amount": -250.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "13:30",
+            "reference": 7200301638
+          },
+          {
+            "description": "Best Buy - Home Appliances",
+            "amount": -2000.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "16:00",
+            "reference": 7200301639
+          },
+          {
+            "description": "Lyft - Ride",
+            "amount": -90.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "17:15",
+            "reference": 7200301640
+          },
+          {
+            "description": "Amazon - Books",
+            "amount": -120.00,
+            "type": "debit",
+            "category": "Education",
+            "time": "18:45",
+            "reference": 7200301641
+          }
+        ],
+        "total": -4020.00
+      },
+      "03-20": {
+        "transactions": [
+          {
+            "description": "Whole Foods - Groceries",
+            "amount": -7000.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "09:30",
+            "reference": 7200301642
+          },
+          {
+            "description": "Nike - Sports Gear",
+            "amount": -4000.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "11:15",
+            "reference": 7200301643
+          },
+          {
+            "description": "Amazon - Gadgets",
+            "amount": -8000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "13:00",
+            "reference": 7200301644
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -1100.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "14:30",
+            "reference": 7200301645
+          },
+          {
+            "description": "Target - Home Supplies",
+            "amount": -3000.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "16:00",
+            "reference": 7200301646
+          },
+          {
+            "description": "Apple Store - Accessories",
+            "amount": -7500.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "17:45",
+            "reference": 7200301647
+          },
+          {
+            "description": "Netflix - Subscription",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "19:00",
+            "reference": 7200301648
+          },
+          {
+            "description": "Spotify - Subscription",
+            "amount": -700.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "20:30",
+            "reference": 7200301649
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -500.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "21:15",
+            "reference": 7200301650
+          },
+          {
+            "description": "Uber Eats - Dinner",
+            "amount": -1500.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "22:00",
+            "reference": 7200301651
+          }
+        ],
+        "total": -35000.00
+      },
+      "03-28": {
+        "transactions": [
+          {
+            "description": "Best Buy - Electronics",
+            "amount": -2200.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "13:30",
+            "reference": 7200301652
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -180.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "14:45",
+            "reference": 7200301653
+          },
+          {
+            "description": "Walmart - Groceries",
+            "amount": -400.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "09:00",
+            "reference": 7200301654
+          },
+          {
+            "description": "Lyft - Ride",
+            "amount": -80.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "10:15",
+            "reference": 7200301655
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -30.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "11:30",
+            "reference": 7200301656
+          },
+          {
+            "description": "Amazon - Fashion",
+            "amount": -600.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "12:00",
+            "reference": 7200301657
+          },
+          {
+            "description": "Spotify - Subscription",
+            "amount": -70.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "15:00",
+            "reference": 7200301658
+          },
+          {
+            "description": "Target - Electronics",
+            "amount": -450.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "16:15",
+            "reference": 7200301659
+          },
+          {
+            "description": "Netflix - Subscription",
+            "amount": -120.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "17:30",
+            "reference": 7200301660
+          },
+          {
+            "description": "Amazon - Gadgets",
+            "amount": -5850.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "18:45",
+            "reference": 7200301661
+          }
+        ],
+        "total": -10130.00
+      }
+    },
+    "April": {
+      "04-01": {
+        "transactions": [
+          {
+            "description": "Amazon - Books",
+            "amount": -1500.00,
+            "type": "debit",
+            "category": "Education",
+            "time": "10:00",
+            "reference": 7200301701
+          },
+          {
+            "description": "Netflix - Subscription",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "12:00",
+            "reference": 7200301702
+          },
+          {
+            "description": "Walmart - Groceries",
+            "amount": -2500.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "13:30",
+            "reference": 7200301703
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -600.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "15:00",
+            "reference": 7200301704
+          },
+          {
+            "description": "Lyft - Ride",
+            "amount": -900.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "16:30",
+            "reference": 7200301705
+          },
+          {
+            "description": "Costco - Groceries",
+            "amount": -3000.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "17:45",
+            "reference": 7200301706
+          },
+          {
+            "description": "Spotify - Subscription",
+            "amount": -700.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "18:30",
+            "reference": 7200301707
+          },
+          {
+            "description": "Apple Store - Accessories",
+            "amount": -4500.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "20:00",
+            "reference": 7200301708
+          },
+          {
+            "description": "Apple Store - Refund",
+            "amount": 500.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "20:45",
+            "reference": 7200301709
+          },
+          {
+            "description": "Target - Home Supplies",
+            "amount": -4000.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "21:30",
+            "reference": 7200301710
+          }
+        ],
+        "total": -17200.00
+      },
+      "04-05": {
+        "transactions": [
+          {
+            "description": "Airbnb - Lodging",
+            "amount": -2000.00,
+            "type": "debit",
+            "category": "Travel",
+            "time": "19:00",
+            "reference": 7200301711
+          },
+          {
+            "description": "Burger King - Food",
+            "amount": -70.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "21:30",
+            "reference": 7200301712
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -120.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "08:00",
+            "reference": 7200301721
+          },
+          {
+            "description": "Amazon - Gadgets",
+            "amount": -400.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "10:15",
+            "reference": 7200301722
+          },
+          {
+            "description": "Apple Store - Laptop",
+            "amount": -3000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "11:45",
+            "reference": 7200301723
+          },
+          {
+            "description": "Lyft - Ride",
+            "amount": -85.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "12:00",
+            "reference": 7200301724
+          },
+          {
+            "description": "Spotify - Premium Subscription",
+            "amount": -120.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "14:00",
+            "reference": 7200301725
+          },
+          {
+            "description": "Whole Foods - Groceries",
+            "amount": -620.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "15:30",
+            "reference": 7200301726
+          },
+          {
+            "description": "Walmart - Electronics",
+            "amount": -800.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "17:00",
+            "reference": 7200301727
+          },
+          {
+            "description": "Netflix - Subscription",
+            "amount": -120.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "18:30",
+            "reference": 7200301728
+          }
+        ],
+        "total": -7075.00
+      },
+      "04-10": {
+        "transactions": [
+          {
+            "description": "Amazon - Electronics",
+            "amount": -15000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "11:45",
+            "reference": 7200301713
+          },
+          {
+            "description": "Lyft - Ride",
+            "amount": -950.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "13:15",
+            "reference": 7200301714
+          },
+          {
+            "description": "Apple Store - Accessories",
+            "amount": -7000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "14:30",
+            "reference": 7200301729
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -450.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "15:00",
+            "reference": 7200301730
+          },
+          {
+            "description": "Walmart - Groceries",
+            "amount": -3200.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "16:00",
+            "reference": 7200301731
+          },
+          {
+            "description": "Amazon - Fashion",
+            "amount": -6000.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "17:15",
+            "reference": 7200301732
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -800.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "18:45",
+            "reference": 7200301733
+          },
+          {
+            "description": "Netflix - Subscription",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "19:30",
+            "reference": 7200301734
+          },
+          {
+            "description": "Costco - Membership Renewal",
+            "amount": -5000.00,
+            "type": "debit",
+            "category": "Membership",
+            "time": "20:15",
+            "reference": 7200301735
+          },
+          {
+            "description": "Amazon - Refund",
+            "amount": 200.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "21:00",
+            "reference": 7200301736
+          }
+        ],
+        "total": -40900.00
+      },
+      "04-15": {
+        "transactions": [
+          {
+            "description": "Target - Clothing",
+            "amount": -500.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "14:00",
+            "reference": 7200301715
+          },
+          {
+            "description": "Starbucks - Refund",
+            "amount": 30.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "15:00",
+            "reference": 7200301716
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -95.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "09:30",
+            "reference": 7200301737
+          },
+          {
+            "description": "Amazon - Groceries",
+            "amount": -300.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "10:45",
+            "reference": 7200301738
+          },
+          {
+            "description": "Spotify - Subscription",
+            "amount": -70.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "12:00",
+            "reference": 7200301740
+          },
+          {
+            "description": "Apple Store - Gadgets",
+            "amount": -800.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "12:45",
+            "reference": 7200301741
+          },
+          {
+            "description": "Netflix - Subscription",
+            "amount": -120.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "13:15",
+            "reference": 7200301742
+          },
+          {
+            "description": "Costco - Groceries",
+            "amount": -220.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "16:30",
+            "reference": 7200301743
+          },
+          {
+            "description": "Amazon - Books",
+            "amount": -100.00,
+            "type": "debit",
+            "category": "Education",
+            "time": "17:45",
+            "reference": 7200301744
+          }
+        ],
+        "total": -2690.00
+      },
+      "04-20": {
+        "transactions": [
+          {
+            "description": "Whole Foods - Groceries",
+            "amount": -800.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "09:30",
+            "reference": 7200301717
+          },
+          {
+            "description": "Nike - Sports Gear",
+            "amount": -450.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "11:15",
+            "reference": 7200301718
+          },
+          {
+            "description": "Lyft - Ride",
+            "amount": -90.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "12:30",
+            "reference": 7200301745
+          },
+          {
+            "description": "Amazon - Kitchen Appliances",
+            "amount": -600.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "13:45",
+            "reference": 7200301746
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -120.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "15:00",
+            "reference": 7200301747
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -70.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "16:15",
+            "reference": 7200301748
+          },
+          {
+            "description": "Walmart - Electronics",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "17:45",
+            "reference": 7200301749
+          },
+          {
+            "description": "Apple Store - Accessories",
+            "amount": -400.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "18:30",
+            "reference": 7200301750
+          },
+          {
+            "description": "Spotify - Subscription",
+            "amount": -70.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "19:15",
+            "reference": 7200301751
+          },
+          {
+            "description": "Amazon - Books",
+            "amount": -150.00,
+            "type": "debit",
+            "category": "Education",
+            "time": "20:45",
+            "reference": 7200301752
+          }
+        ],
+        "total": -4650.00
+      },
+      "04-28": {
+        "transactions": [
+          {
+            "description": "Best Buy - Electronics",
+            "amount": -23000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "13:30",
+            "reference": 7200301719
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -1900.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "14:45",
+            "reference": 7200301720
+          },
+          {
+            "description": "Walmart - Groceries",
+            "amount": -2500.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "10:00",
+            "reference": 7200301753
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -800.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "11:00",
+            "reference": 7200301754
+          },
+          {
+            "description": "Amazon - Fashion",
+            "amount": -3500.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "12:00",
+            "reference": 7200301755
+          },
+          {
+            "description": "Lyft - Ride",
+            "amount": -950.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "15:30",
+            "reference": 7200301756
+          },
+          {
+            "description": "Apple Store - Gadgets",
+            "amount": -4500.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "16:45",
+            "reference": 7200301757
+          },
+          {
+            "description": "Spotify - Subscription",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "17:30",
+            "reference": 7200301758
+          },
+          {
+            "description": "Costco - Groceries",
+            "amount": -3200.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "18:15",
+            "reference": 7200301759
+          },
+          {
+            "description": "Netflix - Subscription",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "19:45",
+            "reference": 7200301760
+          }
+        ],
+        "total": -45250.00
+      }
+    },
+    "May": {
+      "05-01": {
+        "transactions": [
+          {
+            "description": "Amazon - Electronics",
+            "amount": -5000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "09:00",
+            "reference": 7200401801
+          },
+          {
+            "description": "Netflix - Subscription",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "10:15",
+            "reference": 7200401802
+          },
+          {
+            "description": "Walmart - Groceries",
+            "amount": -3800.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "12:30",
+            "reference": 7200401803
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -450.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "13:45",
+            "reference": 7200401804
+          },
+          {
+            "description": "Lyft - Ride",
+            "amount": -800.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "14:30",
+            "reference": 7200401805
+          },
+          {
+            "description": "Costco - Groceries",
+            "amount": -6000.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "16:00",
+            "reference": 7200401806
+          },
+          {
+            "description": "Spotify - Subscription",
+            "amount": -700.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "17:15",
+            "reference": 7200401807
+          },
+          {
+            "description": "Apple Store - Accessories",
+            "amount": -8000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "18:30",
+            "reference": 7200401808
+          },
+          {
+            "description": "Apple Store - Refund",
+            "amount": 600.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "19:00",
+            "reference": 7200401809
+          },
+          {
+            "description": "Target - Home Supplies",
+            "amount": -3200.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "20:15",
+            "reference": 7200401810
+          },
+          {
+            "description": "Petco - Pet Supplies",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Pets",
+            "time": "21:00",
+            "reference": 7200401811
+          }
+        ],
+        "total": -22050.00
+      },
+      "05-05": {
+        "transactions": [
+          {
+            "description": "Airbnb - Lodging",
+            "amount": -2200.00,
+            "type": "debit",
+            "category": "Travel",
+            "time": "11:00",
+            "reference": 7200401811
+          },
+          {
+            "description": "McDonald's - Food",
+            "amount": -70.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "12:30",
+            "reference": 7200401812
+          },
+          {
+            "description": "Shell - Gas",
+            "amount": -450.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "13:00",
+            "reference": 7200401813
+          },
+          {
+            "description": "Walgreens - Pharmacy",
+            "amount": -80.00,
+            "type": "debit",
+            "category": "Healthcare",
+            "time": "14:30",
+            "reference": 7200401814
+          },
+          {
+            "description": "H&M - Clothing",
+            "amount": -100.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "15:45",
+            "reference": 7200401815
+          },
+          {
+            "description": "Best Buy - Appliances",
+            "amount": -300.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "16:00",
+            "reference": 7200401816
+          },
+          {
+            "description": "Whole Foods - Organic Food",
+            "amount": -120.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "17:00",
+            "reference": 7200401817
+          },
+          {
+            "description": "Barnes & Noble - Books",
+            "amount": -50.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "18:00",
+            "reference": 7200401818
+          },
+          {
+            "description": "Local Gym - Membership",
+            "amount": -150.00,
+            "type": "debit",
+            "category": "Fitness",
+            "time": "19:00",
+            "reference": 7200401819
+          },
+          {
+            "description": "Spotify - Premium",
+            "amount": -60.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "20:00",
+            "reference": 7200401820
+          }
+        ],
+        "total": -3230.00
+      },
+      "05-10": {
+        "transactions": [
+          {
+            "description": "Amazon - Furniture",
+            "amount": -12000.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "09:30",
+            "reference": 7200401813
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -950.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "10:45",
+            "reference": 7200401814
+          },
+          {
+            "description": "CVS - Medication",
+            "amount": -500.00,
+            "type": "debit",
+            "category": "Healthcare",
+            "time": "11:30",
+            "reference": 7200401815
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -600.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "12:00",
+            "reference": 7200401816
+          },
+          {
+            "description": "Barnes & Noble - Books",
+            "amount": -700.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "13:15",
+            "reference": 7200401817
+          },
+          {
+            "description": "Chipotle - Lunch",
+            "amount": -800.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "14:00",
+            "reference": 7200401818
+          },
+          {
+            "description": "Home Depot - Tools",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "15:30",
+            "reference": 7200401819
+          },
+          {
+            "description": "Gym Membership - Monthly Fee",
+            "amount": -1500.00,
+            "type": "debit",
+            "category": "Fitness",
+            "time": "16:00",
+            "reference": 7200401820
+          },
+          {
+            "description": "Trader Joe's - Groceries",
+            "amount": -900.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "17:00",
+            "reference": 7200401821
+          },
+          {
+            "description": "iTunes - Music",
+            "amount": -200.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "18:30",
+            "reference": 7200401822
+          }
+        ],
+        "total": -19450.00
+      },
+      "05-15": {
+        "transactions": [
+          {
+            "description": "Target - Clothing",
+            "amount": -4500.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "13:15",
+            "reference": 7200401815
+          },
+          {
+            "description": "Starbucks - Refund",
+            "amount": 350.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "14:00",
+            "reference": 7200401816
+          },
+          {
+            "description": "Whole Foods - Groceries",
+            "amount": -950.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "15:00",
+            "reference": 7200401823
+          },
+          {
+            "description": "Nordstrom - Shoes",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "16:00",
+            "reference": 7200401824
+          },
+          {
+            "description": "Amazon - Books",
+            "amount": -400.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "17:00",
+            "reference": 7200401825
+          },
+          {
+            "description": "Panera Bread - Lunch",
+            "amount": -700.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "18:00",
+            "reference": 7200401826
+          },
+          {
+            "description": "B&H - Camera Gear",
+            "amount": -2200.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "19:00",
+            "reference": 7200401827
+          },
+          {
+            "description": "CVS - Skincare",
+            "amount": -300.00,
+            "type": "debit",
+            "category": "Healthcare",
+            "time": "20:00",
+            "reference": 7200401828
+          },
+          {
+            "description": "Uber Eats - Dinner",
+            "amount": -850.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "21:00",
+            "reference": 7200401829
+          },
+          {
+            "description": "FedEx - Shipping",
+            "amount": -200.00,
+            "type": "debit",
+            "category": "Shipping",
+            "time": "21:30",
+            "reference": 7200401830
+          }
+        ],
+        "total": -17550.00
+      },
+      "05-20": {
+        "transactions": [
+          {
+            "description": "Whole Foods - Groceries",
+            "amount": -9000.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "08:45",
+            "reference": 7200401817
+          },
+          {
+            "description": "Nike - Sports Gear",
+            "amount": -4200.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "10:00",
+            "reference": 7200401818
+          },
+          {
+            "description": "Target - Electronics",
+            "amount": -1500.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "11:15",
+            "reference": 7200401831
+          },
+          {
+            "description": "Macy's - Home Decor",
+            "amount": -1300.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "12:00",
+            "reference": 7200401832
+          },
+          {
+            "description": "Local Cafe - Lunch",
+            "amount": -600.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "13:00",
+            "reference": 7200401833
+          },
+          {
+            "description": "Best Buy - Gadgets",
+            "amount": -2000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "14:30",
+            "reference": 7200401834
+          },
+          {
+            "description": "Amazon - Subscription",
+            "amount": -300.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "15:45",
+            "reference": 7200401835
+          },
+          {
+            "description": "Barnes & Noble - eBooks",
+            "amount": -250.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "16:30",
+            "reference": 7200401836
+          },
+          {
+            "description": "Trader Joe's - Snacks",
+            "amount": -500.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "17:00",
+            "reference": 7200401837
+          },
+          {
+            "description": "JCPenney - Sale",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "18:00",
+            "reference": 7200401838
+          }
+        ],
+        "total": -26350.00
+      },
+      "05-25": {
+        "transactions": [
+          {
+            "description": "Best Buy - Electronics",
+            "amount": -2500.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "13:00",
+            "reference": 7200401819
+          },
+          {
+            "description": "Lyft - Ride",
+            "amount": -110.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "14:15",
+            "reference": 7200401820
+          },
+          {
+            "description": "Whole Foods - Produce",
+            "amount": -80.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "15:00",
+            "reference": 7200401839
+          },
+          {
+            "description": "Apple Music - Subscription",
+            "amount": -70.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "16:00",
+            "reference": 7200401840
+          },
+          {
+            "description": "Taco Bell - Dinner",
+            "amount": -50.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "17:00",
+            "reference": 7200401841
+          },
+          {
+            "description": "Home Depot - Gardening",
+            "amount": -150.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "18:00",
+            "reference": 7200401842
+          },
+          {
+            "description": "CVS - Personal Care",
+            "amount": -30.00,
+            "type": "debit",
+            "category": "Healthcare",
+            "time": "19:00",
+            "reference": 7200401843
+          },
+          {
+            "description": "Barnes & Noble - Gift Card",
+            "amount": -10.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "20:00",
+            "reference": 7200401844
+          },
+          {
+            "description": "Amazon - Prime Membership",
+            "amount": -120.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "21:00",
+            "reference": 7200401845
+          },
+          {
+            "description": "Grocery Store - Discount",
+            "amount": -20.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "22:00",
+            "reference": 7200401846
+          }
+        ],
+        "total": -2920.00
+      }
+    },
+    "June": {
+      "06-01": {
+        "transactions": [
+          {
+            "description": "Amazon - Books",
+            "amount": -1800.00,
+            "type": "debit",
+            "category": "Education",
+            "time": "10:00",
+            "reference": 7200401901
+          },
+          {
+            "description": "Spotify - Subscription",
+            "amount": -700.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "11:30",
+            "reference": 7200401902
+          },
+          {
+            "description": "Walmart - Groceries",
+            "amount": -4000.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "12:45",
+            "reference": 7200401903
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -1000.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "13:15",
+            "reference": 7200401904
+          },
+          {
+            "description": "Apple Store - Accessories",
+            "amount": -7000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "14:30",
+            "reference": 7200401905
+          },
+          {
+            "description": "Apple Store - Refund",
+            "amount": 800.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "15:00",
+            "reference": 7200401906
+          },
+          {
+            "description": "Costco - Groceries",
+            "amount": -3200.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "16:00",
+            "reference": 7200401907
+          },
+          {
+            "description": "Netflix - Subscription",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "17:15",
+            "reference": 7200401908
+          },
+          {
+            "description": "Target - Home Supplies",
+            "amount": -3600.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "18:30",
+            "reference": 7200401909
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -550.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "19:45",
+            "reference": 7200401910
+          }
+        ],
+        "total": -20850.00
+      },
+      "06-10": {
+        "transactions": [
+          {
+            "description": "Airbnb - Lodging",
+            "amount": -23000.00,
+            "type": "debit",
+            "category": "Travel",
+            "time": "09:30",
+            "reference": 7200401911
+          },
+          {
+            "description": "McDonald's - Food",
+            "amount": -900.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "10:45",
+            "reference": 7200401912
+          }
+        ],
+        "total": -23900.00
+      },
+      "06-15": {
+        "transactions": [
+          {
+            "description": "Amazon - Furniture",
+            "amount": -2000.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "11:00",
+            "reference": 7200401913
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -100.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "12:15",
+            "reference": 7200401914
+          }
+        ],
+        "total": -2100.00
+      },
+      "06-20": {
+        "transactions": [
+          {
+            "description": "Target - Clothing",
+            "amount": -4800.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "13:30",
+            "reference": 7200401915
+          },
+          {
+            "description": "Starbucks - Refund",
+            "amount": 250.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "14:45",
+            "reference": 7200401916
+          }
+        ],
+        "total": -4550.00
+      },
+      "06-25": {
+        "transactions": [
+          {
+            "description": "Whole Foods - Groceries",
+            "amount": -10000.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "15:00",
+            "reference": 7200401917
+          },
+          {
+            "description": "Nike - Sports Gear",
+            "amount": -5000.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "16:15",
+            "reference": 7200401918
+          }
+        ],
+        "total": -15000.00
+      }
+    },
+    "July": {
+      "07-01": {
+        "transactions": [
+          {
+            "description": "Amazon - Electronics",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "09:00",
+            "reference": 7200502001
+          },
+          {
+            "description": "Netflix - Subscription",
+            "amount": -120.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "10:15",
+            "reference": 7200502002
+          },
+          {
+            "description": "Walmart - Groceries",
+            "amount": -450.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "11:30",
+            "reference": 7200502003
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -30.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "12:45",
+            "reference": 7200502004
+          },
+          {
+            "description": "Lyft - Ride",
+            "amount": -70.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "14:00",
+            "reference": 7200502005
+          },
+          {
+            "description": "Best Buy - Gadgets",
+            "amount": -850.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "15:15",
+            "reference": 7200502006
+          },
+          {
+            "description": "Costco - Groceries",
+            "amount": -520.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "16:30",
+            "reference": 7200502007
+          },
+          {
+            "description": "Spotify - Subscription",
+            "amount": -70.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "17:45",
+            "reference": 7200502008
+          },
+          {
+            "description": "Apple Store - Refund",
+            "amount": 40.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "18:00",
+            "reference": 7200502009
+          },
+          {
+            "description": "Target - Home Supplies",
+            "amount": -730.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "19:15",
+            "reference": 7200502010
+          }
+        ],
+        "total": -3050.00
+      },
+      "07-05": {
+        "transactions": [
+          {
+            "description": "Airbnb - Lodging",
+            "amount": -18000.00,
+            "type": "debit",
+            "category": "Travel",
+            "time": "09:30",
+            "reference": 7200502011
+          },
+          {
+            "description": "McDonald's - Food",
+            "amount": -600.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "10:45",
+            "reference": 7200502012
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -900.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "11:15",
+            "reference": 7200502013
+          },
+          {
+            "description": "Amazon - Books",
+            "amount": -1500.00,
+            "type": "debit",
+            "category": "Education",
+            "time": "14:30",
+            "reference": 7200502015
+          },
+          {
+            "description": "Starbucks - Refund",
+            "amount": 200.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "15:45",
+            "reference": 7200502016
+          },
+          {
+            "description": "Costco - Gas",
+            "amount": -200.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "16:15",
+            "reference": 7200502017
+          },
+          {
+            "description": "Barnes & Noble - Magazines",
+            "amount": -250.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "17:00",
+            "reference": 7200502018
+          },
+          {
+            "description": "CVS - Personal Care",
+            "amount": -400.00,
+            "type": "debit",
+            "category": "Healthcare",
+            "time": "18:30",
+            "reference": 7200502019
+          },
+          {
+            "description": "Target - Home Supplies",
+            "amount": -500.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "19:00",
+            "reference": 7200502020
+          }
+        ],
+        "total": -18250.00
+      },
+      "07-10": {
+        "transactions": [
+          {
+            "description": "Target - Electronics",
+            "amount": -7000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "10:30",
+            "reference": 7200502017
+          },
+          {
+            "description": "Uber Eats - Food Delivery",
+            "amount": -800.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "12:15",
+            "reference": 7200502018
+          },
+          {
+            "description": "Netflix - Subscription",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "13:00",
+            "reference": 7200502019
+          },
+          {
+            "description": "Walmart - Groceries",
+            "amount": -3500.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "14:00",
+            "reference": 7200502020
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -350.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "15:30",
+            "reference": 7200502021
+          },
+          {
+            "description": "Amazon - Gadgets",
+            "amount": -5000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "16:45",
+            "reference": 7200502022
+          },
+          {
+            "description": "CVS - Medicine",
+            "amount": -200.00,
+            "type": "debit",
+            "category": "Healthcare",
+            "time": "17:15",
+            "reference": 7200502023
+          },
+          {
+            "description": "Barnes & Noble - Books",
+            "amount": -450.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "18:00",
+            "reference": 7200502024
+          },
+          {
+            "description": "Home Depot - Tools",
+            "amount": -1000.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "19:30",
+            "reference": 7200502025
+          },
+          {
+            "description": "Petco - Pet Supplies",
+            "amount": -300.00,
+            "type": "debit",
+            "category": "Pets",
+            "time": "20:00",
+            "reference": 7200502026
+          }
+        ],
+        "total": -14650.00
+      },
+      "07-15": {
+        "transactions": [
+          {
+            "description": "Best Buy - Electronics",
+            "amount": -1500.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "09:00",
+            "reference": 7200502021
+          },
+          {
+            "description": "Whole Foods - Groceries",
+            "amount": -600.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "11:15",
+            "reference": 7200502022
+          },
+          {
+            "description": "Nike - Sports Gear",
+            "amount": -350.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "12:45",
+            "reference": 7200502023
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -100.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "14:30",
+            "reference": 7200502024
+          },
+          {
+            "description": "Barnes & Noble - Magazines",
+            "amount": -15.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "15:45",
+            "reference": 7200502025
+          },
+          {
+            "description": "Costco - Gas",
+            "amount": -30.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "16:30",
+            "reference": 7200502026
+          },
+          {
+            "description": "CVS - Medicine",
+            "amount": -25.00,
+            "type": "debit",
+            "category": "Healthcare",
+            "time": "17:15",
+            "reference": 7200502027
+          },
+          {
+            "description": "Target - Home Supplies",
+            "amount": -50.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "18:00",
+            "reference": 7200502028
+          },
+          {
+            "description": "Petco - Pet Supplies",
+            "amount": -20.00,
+            "type": "debit",
+            "category": "Pets",
+            "time": "19:00",
+            "reference": 7200502029
+          },
+          {
+            "description": "Barnes & Noble - Stationery",
+            "amount": -35.00,
+            "type": "debit",
+            "category": "Education",
+            "time": "20:00",
+            "reference": 7200502030
+          }
+        ],
+        "total": -2830.00
+      },
+      "07-20": {
+        "transactions": [
+          {
+            "description": "Best Buy - Electronics",
+            "amount": -15000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "09:00",
+            "reference": 7200502031
+          },
+          {
+            "description": "Target - Home Supplies",
+            "amount": -800.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "10:30",
+            "reference": 7200502032
+          },
+          {
+            "description": "Amazon - Gadgets",
+            "amount": -7000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "12:00",
+            "reference": 7200502033
+          },
+          {
+            "description": "Barnes & Noble - Books",
+            "amount": -450.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "13:15",
+            "reference": 7200502034
+          },
+          {
+            "description": "Whole Foods - Groceries",
+            "amount": -3000.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "14:30",
+            "reference": 7200502035
+          },
+          {
+            "description": "CVS - Medicine",
+            "amount": -100.00,
+            "type": "debit",
+            "category": "Healthcare",
+            "time": "15:00",
+            "reference": 7200502036
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -250.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "16:15",
+            "reference": 7200502037
+          },
+          {
+            "description": "Target - Home Supplies",
+            "amount": -500.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "17:30",
+            "reference": 7200502038
+          },
+          {
+            "description": "Petco - Pet Supplies",
+            "amount": -200.00,
+            "type": "debit",
+            "category": "Pets",
+            "time": "18:45",
+            "reference": 7200502039
+          },
+          {
+            "description": "Barnes & Noble - Stationery",
+            "amount": -200.00,
+            "type": "debit",
+            "category": "Education",
+            "time": "19:30",
+            "reference": 7200502040
+          }
+        ],
+        "total": -29100.00
+      },
+      "07-25": {
+        "transactions": [
+          {
+            "description": "Target - Home Supplies",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "10:30",
+            "reference": 7200502042
+          },
+          {
+            "description": "Amazon - Gadgets",
+            "amount": -4000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "12:00",
+            "reference": 7200502043
+          },
+          {
+            "description": "Barnes & Noble - Books",
+            "amount": -300.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "13:15",
+            "reference": 7200502044
+          },
+          {
+            "description": "Whole Foods - Groceries",
+            "amount": -5000.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "14:30",
+            "reference": 7200502045
+          },
+          {
+            "description": "CVS - Medicine",
+            "amount": -150.00,
+            "type": "debit",
+            "category": "Healthcare",
+            "time": "15:00",
+            "reference": 7200502046
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -300.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "16:15",
+            "reference": 7200502047
+          },
+          {
+            "description": "Target - Home Supplies",
+            "amount": -400.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "17:30",
+            "reference": 7200502048
+          },
+          {
+            "description": "Petco - Pet Supplies",
+            "amount": -300.00,
+            "type": "debit",
+            "category": "Pets",
+            "time": "18:45",
+            "reference": 7200502049
+          },
+          {
+            "description": "Barnes & Noble - Stationery",
+            "amount": -200.00,
+            "type": "debit",
+            "category": "Education",
+            "time": "19:30",
+            "reference": 7200502050
+          }
+        ],
+        "total": -4150.00
+      }
+    },
+    "August": {
+      "08-01": {
+        "transactions": [
+          {
+            "description": "Amazon - Gadgets",
+            "amount": -1800.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "09:30",
+            "reference": 7200502101
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -60.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "10:45",
+            "reference": 7200502102
+          },
+          {
+            "description": "Spotify - Subscription",
+            "amount": -70.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "12:00",
+            "reference": 7200502103
+          },
+          {
+            "description": "Costco - Groceries",
+            "amount": -320.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "13:15",
+            "reference": 7200502104
+          },
+          {
+            "description": "Netflix - Subscription",
+            "amount": -120.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "14:30",
+            "reference": 7200502105
+          },
+          {
+            "description": "Target - Home Supplies",
+            "amount": -500.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "15:45",
+            "reference": 7200502106
+          },
+          {
+            "description": "Lyft - Ride",
+            "amount": -75.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "17:00",
+            "reference": 7200502107
+          },
+          {
+            "description": "Apple Store - Accessories",
+            "amount": -800.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "18:15",
+            "reference": 7200502108
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -30.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "19:30",
+            "reference": 7200502109
+          },
+          {
+            "description": "Uber - Refund",
+            "amount": 15.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "20:45",
+            "reference": 7200502110
+          }
+        ],
+        "total": -3420.00
+      },
+      "08-03": {
+        "transactions": [
+          {
+            "description": "Amazon - Electronics",
+            "amount": -950.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "08:00",
+            "reference": 9200303001
+          },
+          {
+            "description": "Walmart - Groceries",
+            "amount": -270.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "09:30",
+            "reference": 9200303002
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -90.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "10:45",
+            "reference": 9200303003
+          },
+          {
+            "description": "Spotify - Subscription",
+            "amount": -70.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "12:00",
+            "reference": 9200303004
+          },
+          {
+            "description": "Nike - Apparel",
+            "amount": -350.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "13:15",
+            "reference": 9200303005
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -30.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "14:30",
+            "reference": 9200303006
+          },
+          {
+            "description": "Costco - Groceries",
+            "amount": -480.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "15:45",
+            "reference": 9200303007
+          },
+          {
+            "description": "Apple Store - Accessories",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "17:00",
+            "reference": 9200303008
+          },
+          {
+            "description": "Lyft - Ride",
+            "amount": -65.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "18:15",
+            "reference": 9200303009
+          },
+          {
+            "description": "Amazon - Refund",
+            "amount": 120.00,
+            "type": "credit",
+            "category": "Refund",
+            "time": "19:30",
+            "reference": 9200303010
+          }
+        ],
+        "total": -2715.00
+      },
+      "08-10": {
+        "transactions": [
+          {
+            "description": "Walmart - Groceries",
+            "amount": -4500.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "11:30",
+            "reference": 7200502112
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -500.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "13:00",
+            "reference": 7200502113
+          },
+          {
+            "description": "Nike - Apparel",
+            "amount": -3000.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "14:30",
+            "reference": 7200502114
+          },
+          {
+            "description": "Home Depot - Tools",
+            "amount": -2000.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "15:45",
+            "reference": 7200502115
+          },
+          {
+            "description": "CVS - Medicine",
+            "amount": -400.00,
+            "type": "debit",
+            "category": "Healthcare",
+            "time": "17:00",
+            "reference": 7200502116
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -750.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "18:30",
+            "reference": 7200502117
+          },
+          {
+            "description": "Barnes & Noble - Books",
+            "amount": -600.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "19:00",
+            "reference": 7200502118
+          },
+          {
+            "description": "Grocery Store - Produce",
+            "amount": -800.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "20:00",
+            "reference": 7200502119
+          },
+          {
+            "description": "Amazon - Gift Card",
+            "amount": -200.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "21:30",
+            "reference": 7200502120
+          }
+        ],
+        "total": -10300.00
+      },
+      "08-12": {
+        "transactions": [
+          {
+            "description": "Netflix - Subscription",
+            "amount": -1200.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "10:00",
+            "reference": 9200303011
+          },
+          {
+            "description": "Whole Foods - Groceries",
+            "amount": -6400.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "11:30",
+            "reference": 9200303012
+          },
+          {
+            "description": "Best Buy - Electronics",
+            "amount": -13500.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "13:00",
+            "reference": 9200303013
+          },
+          {
+            "description": "McDonald's - Food",
+            "amount": -550.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "14:30",
+            "reference": 9200303014
+          },
+          {
+            "description": "Barnes & Noble - Books",
+            "amount": -450.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "16:00",
+            "reference": 9200303015
+          },
+          {
+            "description": "Target - Home Supplies",
+            "amount": -2000.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "17:00",
+            "reference": 9200303016
+          },
+          {
+            "description": "Petco - Pet Supplies",
+            "amount": -700.00,
+            "type": "debit",
+            "category": "Pets",
+            "time": "18:00",
+            "reference": 9200303017
+          },
+          {
+            "description": "CVS - Medicine",
+            "amount": -300.00,
+            "type": "debit",
+            "category": "Healthcare",
+            "time": "19:00",
+            "reference": 9200303018
+          },
+          {
+            "description": "Grocery Store - Dairy",
+            "amount": -600.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "20:00",
+            "reference": 9200303019
+          },
+          {
+            "description": "Best Buy - Gadgets",
+            "amount": -1000.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "21:30",
+            "reference": 9200303020
+          }
+        ],
+        "total": -21900.00
+      },
+      "08-15": {
+        "transactions": [
+          {
+            "description": "Whole Foods - Groceries",
+            "amount": -5500.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "11:15",
+            "reference": 7200502116
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -800.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "12:30",
+            "reference": 7200502117
+          },
+          {
+            "description": "Barnes & Noble - Books",
+            "amount": -400.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "13:45",
+            "reference": 7200502118
+          },
+          {
+            "description": "McDonald's - Food",
+            "amount": -600.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "15:00",
+            "reference": 7200502119
+          },
+          {
+            "description": "Grocery Store - Snacks",
+            "amount": -300.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "16:30",
+            "reference": 7200502120
+          },
+          {
+            "description": "CVS - Medicine",
+            "amount": -500.00,
+            "type": "debit",
+            "category": "Healthcare",
+            "time": "17:45",
+            "reference": 7200502121
+          },
+          {
+            "description": "Target - Home Supplies",
+            "amount": -2500.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "19:00",
+            "reference": 7200502122
+          },
+          {
+            "description": "Home Depot - Tools",
+            "amount": -1000.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "20:30",
+            "reference": 7200502123
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -350.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "21:15",
+            "reference": 7200502124
+          }
+        ],
+        "total": -11250.00
+      },
+      "08-20": {
+        "transactions": [
+          {
+            "description": "Target - Home Supplies",
+            "amount": -5000.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "09:30",
+            "reference": 7200502118
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -300.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "11:00",
+            "reference": 7200502119
+          },
+          {
+            "description": "Spotify - Subscription",
+            "amount": -700.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "13:15",
+            "reference": 7200502120
+          },
+          {
+            "description": "CVS - Medicine",
+            "amount": -500.00,
+            "type": "debit",
+            "category": "Healthcare",
+            "time": "14:30",
+            "reference": 7200502121
+          },
+          {
+            "description": "Barnes & Noble - Books",
+            "amount": -250.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "15:00",
+            "reference": 7200502122
+          },
+          {
+            "description": "Home Depot - Tools",
+            "amount": -1500.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "16:30",
+            "reference": 7200502123
+          },
+          {
+            "description": "Grocery Store - Snacks",
+            "amount": -400.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "17:00",
+            "reference": 7200502124
+          },
+          {
+            "description": "McDonald's - Food",
+            "amount": -600.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "18:00",
+            "reference": 7200502125
+          },
+          {
+            "description": "Petco - Pet Supplies",
+            "amount": -700.00,
+            "type": "debit",
+            "category": "Pets",
+            "time": "19:30",
+            "reference": 7200502126
+          },
+          {
+            "description": "CVS - Medicine",
+            "amount": -200.00,
+            "type": "debit",
+            "category": "Healthcare",
+            "time": "20:00",
+            "reference": 7200502127
+          }
+        ],
+        "total": -9250.00
+      },
+      "08-22": {
+        "transactions": [
+          {
+            "description": "Apple Store - Electronics",
+            "amount": -1600.00,
+            "type": "debit",
+            "category": "Electronics",
+            "time": "09:00",
+            "reference": 9200303020
+          },
+          {
+            "description": "Costco - Groceries",
+            "amount": -540.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "10:30",
+            "reference": 9200303021
+          },
+          {
+            "description": "Uber - Ride",
+            "amount": -95.00,
+            "type": "debit",
+            "category": "Transportation",
+            "time": "11:45",
+            "reference": 9200303022
+          },
+          {
+            "description": "Starbucks - Coffee",
+            "amount": -40.00,
+            "type": "debit",
+            "category": "Food & Drink",
+            "time": "13:00",
+            "reference": 9200303023
+          },
+          {
+            "description": "Nike - Apparel",
+            "amount": -300.00,
+            "type": "debit",
+            "category": "Apparel",
+            "time": "14:00",
+            "reference": 9200303024
+          },
+          {
+            "description": "Barnes & Noble - Books",
+            "amount": -60.00,
+            "type": "debit",
+            "category": "Entertainment",
+            "time": "15:00",
+            "reference": 9200303025
+          },
+          {
+            "description": "CVS - Medicine",
+            "amount": -30.00,
+            "type": "debit",
+            "category": "Healthcare",
+            "time": "16:00",
+            "reference": 9200303026
+          },
+          {
+            "description": "Grocery Store - Snacks",
+            "amount": -40.00,
+            "type": "debit",
+            "category": "Groceries",
+            "time": "17:00",
+            "reference": 9200303027
+          },
+          {
+            "description": "Home Depot - Tools",
+            "amount": -50.00,
+            "type": "debit",
+            "category": "Home",
+            "time": "18:00",
+            "reference": 9200303028
+          },
+          {
+            "description": "Petco - Pet Supplies",
+            "amount": -80.00,
+            "type": "debit",
+            "category": "Pets",
+            "time": "19:00",
+            "reference": 9200303029
+          }
+        ],
+        "total": -2895.00
+      }
+    }
+  }
+}
